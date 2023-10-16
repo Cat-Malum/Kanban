@@ -1,0 +1,24 @@
+button {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  max-width: 60px;
+  min-width: 20px;
+  width: 100%;
+  margin: 0 auto;
+  height: 30px;
+  padding: 0 15px;
+  border: none;
+  border-radius: 3px;
+  background-color: #ebebeb;
+  cursor: pointer;
+  transition: 0.3s;
+
+  &:hover {
+    background-color: #aee0f7;
+  }
+
+  &:active {
+    background-color: #50c3f8;
+  }
+}
