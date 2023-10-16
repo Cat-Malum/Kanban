@@ -1,6 +1,6 @@
 # test-project
 Frontend часть приложения с канбан-системой для работы с карточками продуктов.
-Данные продуктов выгружаются с сервиса <a src="https://fakestoreapi.com">fakestoreapi</a>.
+Данные продуктов выгружаются с сервиса <a href="https://fakestoreapi.com">fakestoreapi</a>.
 
 ## Project setup
 ```
